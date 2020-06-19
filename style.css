@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'Pixellari';
+  src: url('https://cdn.glitch.com/837ef81b-a708-49ac-aee8-096caa2ef486%2FPixellari.ttf?v=1592589689198');
+}
+html {
+  background-color: #28293b;
+  font-family: "Pixellari";
+  color:#ffee5b;                
+}
+dt {
+  font-size: larger;
+}
+dd {
+  font-size: medium;
+}
+button {
+  width: 250px;
+  height: 50px;
+  color:#ffee5b;
+  background-color: black;
+  font-family: "Pixellari";
+}
+input{
+  width:20px;
+  height: 20px;
+}
+img {
+    
+    filter: grayscale(1); 
+}
+a {
+  color:cyan;
+}
